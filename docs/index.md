@@ -1,3 +1,3 @@
 # Home Page
 
-Hello world.
+Welcome and enjoy.
