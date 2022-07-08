@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as e}from"./app.99ae0e10.js";const F=JSON.parse('{"title":"isUnion","description":"","frontmatter":{},"headers":[],"relativePath":"TypeScript/isUnion.md","lastUpdated":1657321509000}'),o={name:"TypeScript/isUnion.md"},p=e("",6),l=[p];function t(r,c,i,y,C,A){return a(),n("div",null,l)}var d=s(o,[["render",t]]);export{F as __pageData,d as default};
