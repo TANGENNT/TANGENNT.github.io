@@ -1,8 +1,10 @@
 # [`isUnion`](https://github.com/type-challenges/type-challenges/blob/main/questions/01097-medium-isunion/README.md)
 
-Question: Determine whether given type is an union type?
+## Question
 
-Solution:
+Determine whether given type is an union type?
+
+## Solution
 
 ```typescript
 type IsUnion<T, K = T> = [T] extends [never]
@@ -13,6 +15,8 @@ type IsUnion<T, K = T> = [T] extends [never]
     : true
   : never;
 ```
+
+## Explanation
 
 It is divided into two parts:
 

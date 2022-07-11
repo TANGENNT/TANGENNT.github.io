@@ -5,6 +5,6 @@ export default defineConfig({
   description: "Keep learning and get hands dirty!",
   lastUpdated: true,
   themeConfig: {
-    sidebar: [{ text: "TypeScript", items: [{ text: "isUnion", link: "/TypeScript/isUnion" }] }],
+    sidebar: [{ text: "TypeScript", items: [{ text: "isUnion", link: "/TypeScript/is-union" }] }],
   },
 });
