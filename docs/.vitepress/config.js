@@ -5,6 +5,14 @@ export default defineConfig({
   description: "Keep learning and get hands dirty!",
   lastUpdated: true,
   themeConfig: {
-    sidebar: [{ text: "TypeScript", items: [{ text: "isUnion", link: "/TypeScript/is-union" }] }],
+    sidebar: [
+      {
+        text: "TypeScript",
+        items: [
+          { text: "IsUnion", link: "/TypeScript/is-union" },
+          { text: "RemoveIndexSignature", link: "/TypeScript/remove-index-signature" },
+        ],
+      },
+    ],
   },
 });

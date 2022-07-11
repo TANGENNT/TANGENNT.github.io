@@ -1,4 +1,4 @@
-# [`isUnion`](https://github.com/type-challenges/type-challenges/blob/main/questions/01097-medium-isunion/README.md)
+# [`IsUnion`](https://github.com/type-challenges/type-challenges/blob/main/questions/01097-medium-isunion/README.md)
 
 ## Question
 
