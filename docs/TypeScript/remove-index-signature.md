@@ -30,4 +30,4 @@ First of all, we need to understand what [_Index Signature_](https://www.typescr
 An index signature property type must be either ‘string’ or ‘number’ (or 'symbol').
 :::
 
-Above all, what we need to do is to filter `keyof T`, excluding type `string`, `number` or `symbol`.
+In summary, what we need to do is to filter `keyof T`, excluding type `string`, `number` or `symbol`.
